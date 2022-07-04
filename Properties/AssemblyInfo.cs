@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MainMenuSound")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HarpNet Studios")]
+[assembly: AssemblyCompany("YellowberryHN")]
 [assembly: AssemblyProduct("MainMenuSound")]
-[assembly: AssemblyCopyright("Copyright © HarpNet Studios 2022")]
+[assembly: AssemblyCopyright("Copyright © YellowberryHN 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
